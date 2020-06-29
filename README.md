@@ -37,7 +37,7 @@ The main.py file then trains 2 polynomial models using the fetched data and scik
 Afterwards, the file displays the models' predictions for the next day, the functions that depict the trained models and displays a graph for each model.
 
 ## Contact info
-You may contact me via Linkedin: https://www.linkedin.com/in/ishita-batra-0809.
+You may contact me via Linkedin: https://www.linkedin.com/in/razoltheren
 
 ## Adding models
 It is possible to add more models (e.g. models for specific countries) to the project by taking the following steps:
